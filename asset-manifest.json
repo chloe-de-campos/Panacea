@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/panacea/static/css/main.f855e6bc.css",
+    "main.js": "/panacea/static/js/main.965c172e.js",
+    "static/js/453.f8bed2da.chunk.js": "/panacea/static/js/453.f8bed2da.chunk.js",
+    "static/media/logo.svg": "/panacea/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/panacea/index.html",
+    "main.f855e6bc.css.map": "/panacea/static/css/main.f855e6bc.css.map",
+    "main.965c172e.js.map": "/panacea/static/js/main.965c172e.js.map",
+    "453.f8bed2da.chunk.js.map": "/panacea/static/js/453.f8bed2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.965c172e.js"
+  ]
+}
